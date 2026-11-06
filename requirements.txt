@@ -1,0 +1,6 @@
+streamlit==1.66.1
+polars==2.1.0
+matplotlib==3.11.2
+statsmodels==0.15.0
+requests==2.34.2
+pycountry==26.2.16
